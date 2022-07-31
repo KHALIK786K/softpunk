@@ -9,6 +9,7 @@
     z-index: -1;
     background-size:cover;
     background-position:center;
+    backface-visibility:visible;
    }
 .bg1{
     width: 100%;
